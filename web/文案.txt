@@ -1,0 +1,6 @@
+﻿1. 正比大頭 Profile Photo
+2. 正比半身 Half Portrait
+3. 正比全身 Full Portrait
+4. Q版 Q Version
+5. 漫畫 Comics
+6. 拍貼風格 Sticky Style
